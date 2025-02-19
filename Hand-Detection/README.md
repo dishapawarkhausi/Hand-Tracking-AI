@@ -12,7 +12,7 @@ This project detects and tracks hands in real-time using **OpenCV** and **MediaP
 ```plaintext
 Hand-Detection/
 │
-├── hand_detection.py # Main script
+├── hand-detection.py # Main script
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies
 ```
